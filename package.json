@@ -1,0 +1,27 @@
+{
+  "name": "next-auth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "bcryptjs": "^2.4.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11",
+    "next": "10.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "swr": "^0.3.8",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0"
+  }
+}
